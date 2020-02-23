@@ -1,0 +1,2 @@
+# GDDemo
+ my first git 
